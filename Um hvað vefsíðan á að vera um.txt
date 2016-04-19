@@ -1,0 +1,13 @@
+1.	
+	A.	Einstaklingur sem vill fara í skoðunarferðir um Ísland og skoða helstu staði Íslands 
+	B.	Úpplýsingar um hvaða staði hægt er að skoða, panta ferðir
+	C.	Að ná í einstaklinga sem finnst gaman að labba um fjöll og skoða 
+		merkilega staði, fræða fólk um sögu Íslands
+2.	Fréttir, hvaða staði hægt er að skoða, kostnað, ferðir um allt Ísland, upplýsingar
+	um fyrirtækið sem keyrir fólkið um og fræðir það um sögu Íslands, mismunandi ferðaplön
+	
+3.	Einstaklingar getur pantað ferðir um Ísland, pöntunar formið inniheldur nafn einstaklings,
+	kennitölu, netfang, símanúmer, heimilisfang, fjölda einstaklinga í hópnum, hvaða ferðaplan,
+	
+4.	
+5.	
